@@ -1,4 +1,4 @@
-cloud studio 	在线协作编程工具
-zoom			会议安排
+cloud studio 	在线协作编程工具 zoom			会议安排
 git is a version control system
 git GRL change
+git has a mutable index called stage
