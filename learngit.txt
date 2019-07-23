@@ -1,0 +1,2 @@
+git remote add origin https://github.com/LiuNianCanX/practise.git
+git push -u origin master
